@@ -1,1 +1,1 @@
-# SimpleNeuralNetwork
+# Simple-Neural-Network
